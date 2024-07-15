@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a7523fc0821a4faa8c64bf61e32e9eb3" Name="Diagram1" ZoomLevel="62">
+        <EntityTypeShape EntityType="Med_Webb_Databases.Categoria" Width="1.5" PointX="5.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Cliente" Width="1.5" PointX="5.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.DetallePedido" Width="1.5" PointX="10.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.DetalleVentaPlatillo" Width="1.5" PointX="13.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Mesa" Width="1.5" PointX="6.875" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Pedido" Width="1.5" PointX="8.375" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Platillo" Width="1.5" PointX="8" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Reserva" Width="1.5" PointX="11.125" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.sysdiagram" Width="1.5" PointX="13.625" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Usuario" Width="1.5" PointX="13.375" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Venta" Width="1.5" PointX="11.5" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Platillo__Catego__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Pedido__ClienteI__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Reserva__Cliente__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Venta__ClienteId__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__DetallePe__Pedid__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__DetallePe__Plati__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__DetalleVe__Plati__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__DetalleVe__Venta__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Pedido__MesaId__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="Med_Webb_Databases.FK__Reserva__MesaId__4BAC3F29" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
