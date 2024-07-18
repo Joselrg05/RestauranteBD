@@ -121,6 +121,7 @@
       <DependentUpon>EntidadRelacion.edmx</DependentUpon>
       <LastGenOutput>EntidadRelacion.Context.cs</LastGenOutput>
     </Content>
+    <Content Include="EntidadRelacion.edmx.sql" />
     <Content Include="Modelado\EntidadRelacion.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>EntidadRelacion.edmx</DependentUpon>
