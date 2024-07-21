@@ -15,7 +15,7 @@
         <EntityTypeShape EntityType="Med_Webb_Databases.Reserva" Width="1.5" PointX="6" PointY="11.125" IsExpanded="true" />
         <EntityTypeShape EntityType="Med_Webb_Databases.sysdiagram" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
         <EntityTypeShape EntityType="Med_Webb_Databases.Usuario" Width="1.5" PointX="8.75" PointY="9.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="Med_Webb_Databases.Venta" Width="1.5" PointX="6" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Med_Webb_Databases.Venta" Width="1.5" PointX="526.875" PointY="527.625" IsExpanded="true" />
         <AssociationConnector Association="Med_Webb_Databases.FK__Platillo__Catego__44FF419A" ManuallyRouted="false" />
         <AssociationConnector Association="Med_Webb_Databases.FK__Pedido__ClienteI__4E88ABD4" ManuallyRouted="false" />
         <AssociationConnector Association="Med_Webb_Databases.FK__Reserva__Cliente__4AB81AF0" ManuallyRouted="false" />

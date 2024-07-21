@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "med_webb_CapaNegocio", "med
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "med_webb_application", "med_webb_application\med_webb_application.csproj", "{3ECAFE94-F111-4CBA-B76F-1151A3826947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacionMedWebb", "CapaPresentacionMedWebb\CapaPresentacionMedWebb.csproj", "{C9316C6C-83C9-4E6F-9255-F78883F5CACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3ECAFE94-F111-4CBA-B76F-1151A3826947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ECAFE94-F111-4CBA-B76F-1151A3826947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ECAFE94-F111-4CBA-B76F-1151A3826947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9316C6C-83C9-4E6F-9255-F78883F5CACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9316C6C-83C9-4E6F-9255-F78883F5CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9316C6C-83C9-4E6F-9255-F78883F5CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9316C6C-83C9-4E6F-9255-F78883F5CACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
